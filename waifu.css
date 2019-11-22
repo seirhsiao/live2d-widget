@@ -2,7 +2,7 @@
 	position: fixed;
 	writing-mode: vertical-rl;
 	bottom: 66px;
-	left: 0px;
+	right: 30px;
 	background-color: #fa0;
 	color: #fff;
 	border-radius: 5px;
@@ -14,7 +14,7 @@
 #waifu {
 	position: fixed;
 	bottom: -1000px;
-	left: 0;
+	right: 30;
 	z-index: 1;
 	line-height: 0;
 	transition: transform .3s ease-in-out;
